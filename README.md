@@ -10,7 +10,7 @@ Step 1:
 ```python setup.py install```
 
  Step 2 :
- ```python train_wgangp_gdea.py "path_to_traindata" --img_size 128```
+ ```python train_wgan_gdea.py "path_to_traindata" --img_size 128```
  
  Step 3:
  ``` python train_encoder_izif_gdea.py "path_to_traindata" --img_size 128```
