@@ -1,5 +1,5 @@
 # ZALF: Zero-Anomaly Learning Framework for Unsupervised Chest X-Ray Anomaly Detection 
-Zero-Anomaly Training (ZAT) with Laplacian of Gaussian GANs enables fully unsupervised anomaly detection in chest X-rays, learning only from normal samples without requiring labeled anomalies. The proposed architecture integrates multi-scale feature extraction, a novel Fourier Loss for better structural similarity, and an attention module to enhance detection accuracy and minimize false positives.
+Zero-Anomaly Learning Framework (ZALF) with Laplacian of Gaussian GANs enables fully unsupervised anomaly detection in chest X-rays, learning only from normal samples without requiring labeled anomalies. The proposed architecture integrates multi-scale feature extraction, a novel Fourier Loss for better structural similarity, and an attention module to enhance detection accuracy and minimize false positives.
 
 ##Dataset 
 This work utilizes the COVIDx dataset, a publicly available collection of chest X-ray images for COVID-19 detection, accessible via the following link: https://github.com/lindawangg/COVID-Net
