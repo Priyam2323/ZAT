@@ -1,4 +1,4 @@
-# ZAT: Zero-Anomaly Training for Unsupervised Anomaly Detection 
+# ZALF: Zero-Anomaly Learning Framework for Unsupervised Chest X-Ray Anomaly Detection 
 Zero-Anomaly Training (ZAT) with Laplacian of Gaussian GANs enables fully unsupervised anomaly detection in chest X-rays, learning only from normal samples without requiring labeled anomalies. The proposed architecture integrates multi-scale feature extraction, a novel Fourier Loss for better structural similarity, and an attention module to enhance detection accuracy and minimize false positives.
 
 ##Dataset 
